@@ -4,7 +4,7 @@ streamlit
 matplotlib
 numpy 
 opencv-python
-PIL
+Pillow
 streamlit
 pickle
 keras
