@@ -3,7 +3,6 @@ import numpy as np
 import cv2
 import pickle
 from PIL import Image
-import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
 # Load the pickled model
